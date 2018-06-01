@@ -26,5 +26,3 @@ For more information: on [React](https://facebook.github.io/react-native/), [Red
 * User Authentication and OAuth
 * File Storage and Hosting
 * Access Control on Object and Schema Level
-
-# License
