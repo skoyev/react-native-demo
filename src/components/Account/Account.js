@@ -12,7 +12,9 @@ import {
 } from 'react-native';
 
 import { login, register, logout } from '../../actions/auth';
-
+/**
+ * @author Sergiy Koyev
+ */
 class Account extends Component {
   constructor(props) {
     super(props)

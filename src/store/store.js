@@ -7,7 +7,9 @@ import middlewares from '../middleware'
 import reducers from '../reducers'
 
 import { db, util } from 'baqend/lib/baqend'
-
+/**
+ * @author Sergiy Koyev
+ */
 export class DeviceStorage extends util.TokenStorage {
 
   constructor(origin, token) {

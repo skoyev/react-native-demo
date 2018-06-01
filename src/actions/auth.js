@@ -8,6 +8,9 @@ export function login(username, password) {
     }
   }
 }
+/**
+ * @author Sergiy Koyev
+ */
 
 export function register(username, password) {
   return {

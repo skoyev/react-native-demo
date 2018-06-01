@@ -3,5 +3,7 @@
 const middlewares = [
   // createLogger()
 ];
-
+/**
+ * @author Sergiy Koyev
+ */
 export default middlewares;

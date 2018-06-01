@@ -17,7 +17,9 @@ import Messages from './components/Messages/Messages'
 import Account from './components/Account/Account'
 
 const store = createStore()
-
+/**
+ * @author Sergiy Koyev
+ */
 export default class App extends Component {
   render() {
     return (

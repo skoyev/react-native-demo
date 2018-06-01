@@ -1,5 +1,7 @@
 import { MESSAGES_LOAD, MESSAGES_LOAD_SUCCESS, MESSAGES_LOAD_FAILURE } from './types'
-
+/**
+ * @author Sergiy Koyev
+ */
 export function messagesLoad(args) {
   return {
     'BAQEND': {

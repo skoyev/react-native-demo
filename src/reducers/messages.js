@@ -5,7 +5,9 @@ const initalState = {
   loading: false,
   list: []
 }
-
+/**
+ * @author Sergiy Koyev
+ */
 export default function messages(state = initalState, action = {}) {
   switch (action.type) {
 

@@ -12,6 +12,9 @@ import { messagesLoad, messageUpdate } from '../../actions/messages'
 import { db } from 'baqend'
 import { NativeRouter, Route, Link } from 'react-router-native'
 
+/**
+ * @author Sergiy Koyev
+ */
 class Messages extends Component {
   constructor(props) {
     super(props)

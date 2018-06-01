@@ -5,7 +5,9 @@ const initialState = {
   isLoggedIn: false,
   user: null
 }
-
+/**
+ * @author Sergiy Koyev
+ */
 export default function auth(state = initialState, action = {}) {
   switch (action.type) {
     case BAQEND_CONNECTED:
